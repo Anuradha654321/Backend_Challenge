@@ -1,2 +1,3 @@
-# Backend_Challenge
-This repository contains an efficient Greedy algorithm solution for the Task Scheduler (LeetCode 621) problem. The approach uses frequency counting and scheduling optimization to compute the minimum time required to execute all tasks while respecting cooldown constraints. The solution is optimized for time and space 
+# CCC_Backend_Challenge-
+These solutions showcase my ability to analyze problems, implement optimal algorithms, and apply theoretical concepts to practical coding challenges. 
+Each solution emphasizes clarity, efficiency, and readability, with a focus on optimizing both time and space complexity. The problems were carefully chosen to demonstrate strong problem-solving skills, algorithmic thinking, and understanding of core concepts.
